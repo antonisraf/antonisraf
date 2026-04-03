@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Studying Business Administration at the University of West Attica, specializing in Information Systems and Decision-Making. I'm just starting to explore data analytics and decision support, and I'm eager to keep learning and improving. Passionate about using data to solve practical business problems.
 
 
